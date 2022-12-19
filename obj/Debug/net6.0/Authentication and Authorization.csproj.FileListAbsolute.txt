@@ -1,0 +1,36 @@
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\appsettings.Development.json
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\appsettings.json
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Authentication and Authorization.exe
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Authentication and Authorization.deps.json
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Authentication and Authorization.runtimeconfig.json
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Authentication and Authorization.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Authentication and Authorization.pdb
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.csproj.AssemblyReference.cache
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication_and_Authorization.Properties.Resources.resources
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.csproj.GenerateResource.cache
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.AssemblyInfoInputs.cache
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.AssemblyInfo.cs
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.csproj.CoreCompileInputs.cache
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\staticwebassets.build.json
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\staticwebassets.development.json
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\scopedcss\bundle\Authentication and Authorization.styles.css
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.csproj.CopyComplete
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\refint\Authentication and Authorization.dll
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.pdb
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\Authentication and Authorization.genruntimeconfig.cache
+D:\DotNet\WEB API PRACTICE PROJECT\Authentication and Authorization\obj\Debug\net6.0\ref\Authentication and Authorization.dll
