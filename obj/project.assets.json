@@ -587,11 +587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\WEB API PRACTICE PROJECT\\Authentication and Authorization\\Authentication and Authorization.csproj",
+      "projectUniqueName": "D:\\DotNet\\WEB API PRACTICE PROJECT\\ASP-NET-Auth-API\\Authentication and Authorization.csproj",
       "projectName": "Authentication and Authorization",
-      "projectPath": "D:\\DotNet\\WEB API PRACTICE PROJECT\\Authentication and Authorization\\Authentication and Authorization.csproj",
+      "projectPath": "D:\\DotNet\\WEB API PRACTICE PROJECT\\ASP-NET-Auth-API\\Authentication and Authorization.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\WEB API PRACTICE PROJECT\\Authentication and Authorization\\obj\\",
+      "outputPath": "D:\\DotNet\\WEB API PRACTICE PROJECT\\ASP-NET-Auth-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
